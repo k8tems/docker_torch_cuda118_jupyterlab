@@ -3,6 +3,6 @@
   - pytorch/jupyterlab preinstalled
   - cuda 11.8
 - Usage
-```bash
-docker pull k8tems/torch-cuda118-jupyter:latest
-```
+  ```bash
+  docker pull k8tems/torch-cuda118-jupyter:latest
+  ```
